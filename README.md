@@ -1,11 +1,17 @@
 # jsonexraw
 
-> jsonex.go without HTML escape and newline.
+> jsonex.go without HTML escape and newline
 
 ## How to use
 
-See <https://github.com/yaegashi/jsonex.go>
+Import as:
+
+```go
+import json "github.com/SCP002/jsonexraw"
+```
+
+... and use as shown here <https://github.com/yaegashi/jsonex.go>
 
 ## Notes
 
-Based on: <https://stackoverflow.com/a/28596225>
+Based on <https://stackoverflow.com/a/28596225>
